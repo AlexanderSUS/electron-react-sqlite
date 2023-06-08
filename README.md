@@ -1,6 +1,6 @@
-# my-electron-app
+# electron-react-sqlite
 
-# Usage
+### Usage
 
 Clone this repo
 
